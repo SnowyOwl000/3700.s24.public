@@ -1,0 +1,3 @@
+/home/scsiet/CLionProjects/IRS/cmake-build-debug/CMakeFiles/IRS.dir
+/home/scsiet/CLionProjects/IRS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/scsiet/CLionProjects/IRS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
