@@ -1,0 +1,3 @@
+/home/bob/Documents/3700-p/Project4/cmake-build-debug/CMakeFiles/Solution.dir
+/home/bob/Documents/3700-p/Project4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bob/Documents/3700-p/Project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
