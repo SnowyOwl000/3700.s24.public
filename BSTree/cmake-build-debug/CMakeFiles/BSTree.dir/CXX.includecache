@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bob/School/Courses/3700.course/Containers/BSTree/bstree-implementation.h
+stdexcept
+-
+bstree.h
+/home/bob/School/Courses/3700.course/Containers/BSTree/bstree.h
+
+/home/bob/School/Courses/3700.course/Containers/BSTree/bstree.h
+cstdint
+-
+bstree-implementation.h
+/home/bob/School/Courses/3700.course/Containers/BSTree/bstree-implementation.h
+
+/home/bob/School/Courses/3700.course/Containers/BSTree/main.cpp
+iostream
+-
+random
+-
+bstree.h
+/home/bob/School/Courses/3700.course/Containers/BSTree/bstree.h
+
